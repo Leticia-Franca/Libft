@@ -4,6 +4,9 @@ This project is about creating your first library in C. The ideia is for you to 
 Below, a summary of the functions, grouped by their purposes.  
 
 ## Functions to deal with memory  
+In this one, you find functions to allocate memory, to move memory,  
+to copy the memory from one place to another, to compare memory and  
+to find a specific character in a given memory.  
 - ft_memccpy  
 - ft_memchr  
 - ft_memcmp  
@@ -14,6 +17,12 @@ Below, a summary of the functions, grouped by their purposes.
 - ft_bzero  
 
 ## Functions to deal with strings  
+These are functions to parse and manipulate strings. With them, you can  
+find a specific character in a given string, you can duplicate a string,  
+you can concatenate a string to another, copy a piece of the string to  
+another, you can count the string's length, you can compare the strings,  
+you can extract a substring from the given string, you can trim a string  
+or split a given string into multiply strings.  
 - ft_strchr  
 - ft_strdup  
 - ft_strjoin  
