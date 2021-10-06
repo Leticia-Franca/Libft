@@ -60,6 +60,9 @@ You can find a specific character, you can duplicate a string, you can copy a pi
 - ft_putstr_fd  
 
 ## Functions to deal with lists (bonus)  
+Linked Lists. More flexible and easier to resize than arrays, but more troublesome to access its elements individually (since with them, you don't have subscripts as a tool), they are really an interesting type of data structure.  
+Even though these functions aren't mandatory, it's worth to become familiar with this subject.  
+You can start understanding what linked lists are and some of its advantages with [this link](https://www.geeksforgeeks.org/linked-list-set-1-introduction/).  
 - ft_lstadd_back  
 - ft_lstadd_front  
 - ft_lstclear  
