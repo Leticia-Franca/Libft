@@ -1,6 +1,12 @@
 # Libft
 
-This project is about creating your first library in C. The ideia is for you to reproduce the behavior of some of the standard functions, but it also has not-standardized ones. Once done with the project, you can add any function you want to enrich your library.
+In this project, you'll be creating your first library in C. In fact, the idea is to reproduce the behaviour of some of the functions of the C standard library, but there's also additional ones.  
+Once done with the project, you can add any function you want to enrich your library.  
+As the first Ecole 42's project, this is your first contact with a lot of concepts. But don't sweat it, the piscine was a nice warming to this - maybe you already did some of these functions back then, depending on the list you stopped.  
+
+Either way, I'll list some interesting points about this project and how it can get you warmed up for your future trajectory at 42!  
+
+
 Below, a summary of the functions, grouped by their purposes.  
 
 ## Functions to deal with memory  
