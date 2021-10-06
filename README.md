@@ -2,9 +2,9 @@
 
 In this project, you'll be creating your first library! The idea is to reproduce some functions of the C standard library, but there's also additional ones.
 And it doesn't end there: once done, you can add any function you want to enrich your library (this is valid 'til the end of your trajectory at 42).  
-As the opening Ecole 42's project, this may be your first contact with a lot of concepts. It can definitely be intimidating when you first open the pdf and stare at that big list of functions to code, but hey, **don't sweat it!** The piscine/ was a nice warming - maybe you already did some of these functions back then, depending on the list you stopped.  
+As the opening Ecole 42's project, this may be your first contact with a lot of concepts. It can definitely be intimidating when you first open the pdf and stare at that big list of functions to code, but hey, **don't sweat it!** The piscine/basecamp was a nice warm up - maybe you already did some of these functions back then, depending on the list you stopped.  
 What you need to keep in mind is:  
-**this is the first brick to build your forte**  
+**This is the first brick to build your forte**  
 
 ### But what does it mean?  
 Well, it means you won't deliver this and just put it aside. You'll need this library regularly in your future projects. In fact, this is the truth with most of the projects. **Brick by brick**, we can say.  
@@ -12,7 +12,7 @@ Well, it means you won't deliver this and just put it aside. You'll need this li
 Therefore, let's do a summary of the functions, just so you can *level up* rest assured.   
 
 ## Functions to deal with memory  
-In this one, you find functions to allocate memory, to move memory, to copy the memory from one place to another, to compare memory and to find a specific character in a given memory.  
+This set of functions help you allocate memory (and zero it), move/copy memory from one place to another, find a specific character and compare two blocks of memory.
 - ft_memccpy (removed)
 - ft_memchr  
 - ft_memcmp  
@@ -23,7 +23,8 @@ In this one, you find functions to allocate memory, to move memory, to copy the 
 - ft_bzero  
 
 ## Functions to deal with strings  
-These are functions to parse and manipulate strings. With them, you can find a specific character in a given string, you can duplicate a string, you can concatenate a string to another, copy a piece of the string to another, you can count the string's length, you can compare the strings, you can extract a substring from the given string, you can trim a string or split a given string into multiply strings.  
+Here you have a bunch of functions to parse and manipulate strings. And they promise you a lot of possibilities:  
+You can find a specific character, you can duplicate a string, you can copy a piece of a string to another or concatenate/join two strings. You can make comparisons or extract a substring from an original one, and you can trim or split it into multiple strings.  
 - ft_strchr  
 - ft_strdup  
 - ft_strjoin  
