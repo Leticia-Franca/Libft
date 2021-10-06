@@ -52,6 +52,13 @@ You can find a specific character, you can duplicate a string, you can copy a pi
 - ft_tolower  
 - ft_toupper  
 
+## Functions to print the argument in the output  
+- ft_putchar_fd  
+- ft_putendl_fd  
+- ft_putnbr_fd  
+- ft_putnbr_unsig  
+- ft_putstr_fd  
+
 ## Functions to deal with lists (bonus)  
 - ft_lstadd_back  
 - ft_lstadd_front  
@@ -62,10 +69,3 @@ You can find a specific character, you can duplicate a string, you can copy a pi
 - ft_lstmap  
 - ft_lstnew  
 - ft_lstsize  
-
-## Functions to print the argument in the output  
-- ft_putchar_fd  
-- ft_putendl_fd  
-- ft_putnbr_fd  
-- ft_putnbr_unsig  
-- ft_putstr_fd  
