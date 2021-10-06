@@ -12,10 +12,8 @@ Well, it means you won't deliver this and just put it aside. Actually, you'll ne
 Therefore, let's do a summary of the functions, just so you can *level up* rest assured:    
 
 ## Functions to deal with memory  
-In this one, you find functions to allocate memory, to move memory,  
-to copy the memory from one place to another, to compare memory and  
-to find a specific character in a given memory.  
-- ft_memccpy  
+In this one, you find functions to allocate memory, to move memory, to copy the memory from one place to another, to compare memory and to find a specific character in a given memory.  
+- ft_memccpy (removed)
 - ft_memchr  
 - ft_memcmp  
 - ft_memcpy  
@@ -25,12 +23,7 @@ to find a specific character in a given memory.
 - ft_bzero  
 
 ## Functions to deal with strings  
-These are functions to parse and manipulate strings. With them, you can  
-find a specific character in a given string, you can duplicate a string,  
-you can concatenate a string to another, copy a piece of the string to  
-another, you can count the string's length, you can compare the strings,  
-you can extract a substring from the given string, you can trim a string  
-or split a given string into multiply strings.  
+These are functions to parse and manipulate strings. With them, you can find a specific character in a given string, you can duplicate a string, you can concatenate a string to another, copy a piece of the string to another, you can count the string's length, you can compare the strings, you can extract a substring from the given string, you can trim a string or split a given string into multiply strings.  
 - ft_strchr  
 - ft_strdup  
 - ft_strjoin  
@@ -75,4 +68,3 @@ or split a given string into multiply strings.
 - ft_putnbr_fd  
 - ft_putnbr_unsig  
 - ft_putstr_fd  
-
