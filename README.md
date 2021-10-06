@@ -1,15 +1,15 @@
 # Libft
 
-In this project, you'll be creating your first library in C. The idea is to reproduce the behaviour of some functions of the C standard library, but there's also additional ones.  
-Once done with this, you can add any function you want to enrich your library.  
-As the opening Ecole 42's project, this may be your first contact with a lot of concepts. It can definitely be intimidating when you first open the pdf and stare at that big list of functions to code, but hey, Don't sweat it! The piscine/ was a nice warming - maybe you already did some of these functions back then, depending on the list you stopped.  
-What you need to keep in mind is: **this is the first brick to build your forte**  
- 
+In this project, you'll be creating your first library! The idea is to reproduce some functions of the C standard library, but there's also additional ones.
+And it doesn't end there: once done, you can add any function you want to enrich your library (this is valid 'til the end of your trajectory at 42..    
+As the opening Ecole 42's project, this may be your first contact with a lot of concepts. It can definitely be intimidating when you first open the pdf and stare at that big list of functions to code, but hey, **don't sweat it!** The piscine/ was a nice warming - maybe you already did some of these functions back then, depending on the list you stopped.  
+What you need to keep in mind is:  
+**this is the first brick to build your forte**  
 
-Either way, let's sum up this so you can level up rest assured (pesquisar essa expressao):    
-	- 
+### But what does it mean?  
+Well, it means you won't deliver this and just put it aside. Actually, you'll need this library regularly in your future projects. In fact, this is the truth with most of the projects. **Brick by brick**, we can say.  
 
-Below, a summary of the functions, grouped by their purposes.  
+Therefore, let's do a summary of the functions, just so you can *level up* rest assured:    
 
 ## Functions to deal with memory  
 In this one, you find functions to allocate memory, to move memory,  
