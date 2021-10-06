@@ -1,11 +1,13 @@
 # Libft
 
-In this project, you'll be creating your first library in C. In fact, the idea is to reproduce the behaviour of some of the functions of the C standard library, but there's also additional ones.  
-Once done with the project, you can add any function you want to enrich your library.  
-As the first Ecole 42's project, this is your first contact with a lot of concepts. But don't sweat it, the piscine was a nice warming to this - maybe you already did some of these functions back then, depending on the list you stopped.  
+In this project, you'll be creating your first library in C. The idea is to reproduce the behaviour of some functions of the C standard library, but there's also additional ones.  
+Once done with this, you can add any function you want to enrich your library.  
+As the opening Ecole 42's project, this may be your first contact with a lot of concepts. It can definitely be intimidating when you first open the pdf and stare at that big list of functions to code, but hey, Don't sweat it! The piscine/ was a nice warming - maybe you already did some of these functions back then, depending on the list you stopped.  
+What you need to keep in mind is: **this is the first brick to build your forte**  
+ 
 
-Either way, I'll list some interesting points about this project and how it can get you warmed up for your future trajectory at 42!  
-
+Either way, let's sum up this so you can level up rest assured (pesquisar essa expressao):    
+	- 
 
 Below, a summary of the functions, grouped by their purposes.  
 
