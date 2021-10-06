@@ -7,7 +7,7 @@ What you need to keep in mind is:
 **this is the first brick to build your forte**  
 
 ### But what does it mean?  
-Well, it means you won't deliver this and just put it aside. Actually, you'll need this library regularly in your future projects. In fact, this is the truth with most of the projects. **Brick by brick**, we can say.  
+Well, it means you won't deliver this and just put it aside. You'll need this library regularly in your future projects. In fact, this is the truth with most of the projects. **Brick by brick**, we can say.  
 
 Therefore, let's do a summary of the functions, just so you can *level up* rest assured:    
 
