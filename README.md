@@ -8,7 +8,7 @@ This library has functions to:
 - Deal with strings  
 - Verify and transform caracters and numbers  
 - Print on the output  
-- Manage lists  
+- Manage linked lists  
 
 ### ✨ Thoughts during the project  
 - Looking under the hood:   
