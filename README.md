@@ -20,9 +20,9 @@ This library has functions to:
 - Finding out about **linked lists** (an alternative to arrays)  
   -  More flexible and easier to resize than arrays, but more troublesome to access its elements individually (since with them, you don't have subscripts as a tool), they are really an interesting type of data structure. Even though these functions aren't mandatory, it's worth to become familiar with this subject. 
    
-😎 [Here's](https://www.geeksforgeeks.org/linked-list-set-1-introduction/) a cool link to start to understand what linked lists are and some of its advantages.  
+[Here's](https://www.geeksforgeeks.org/linked-list-set-1-introduction/) a cool link to start to understand what linked lists are and some of its advantages.  
 
-### To compile
+### ✨ To compile
 <pre>
 git clone [this-repo-url] [folder]  
 cd [folder]
